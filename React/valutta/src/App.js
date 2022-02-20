@@ -16,11 +16,7 @@ function App() {
   <h2>Valuuttalaskuri</h2>
   <div>
     <label>Eur</label>
-    <input 
-    type="number" 
-    value={eurot}
-    onChange={e => setEurot(e.target.value)}
-    />
+    <input type="number" value={eurot}onChange={e => setEurot(e.target.value)}/>
   </div>
   <div>
     <label>Punnat</label>

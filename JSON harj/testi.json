@@ -1,0 +1,39 @@
+{
+    "opintojakso": [
+        {
+            "otsikko": "test",
+            "laajuus": "This is test content...",
+            "opettaja": {
+                "lastname":"Madetoja",
+                "firstname":"Benjamin"
+            },
+            "päiväys": "10.2.2021",
+            "kommentit": [
+                {
+                    "kommentti":{
+                        "teksti":"This is a test comment",
+                        "kirjoittaja" : "Test person"
+                    }
+                }
+            ]
+        },
+        {
+            "otsikko" : "test 2",
+            "laajuus":"This is seconds test content...",
+            "opettaja" : {
+                "lastname":"Räisänen",
+                "firstname": "Teppo"
+            },
+            "päiväys":"11.2.2021",
+            "kommentit":[
+                {
+                    "kommentti":{
+                        "teksti":"This is a another test comment",
+                        "kirjoittaja" : "Test person"
+                    }
+                }
+            ]
+        }
+    ]
+
+}
